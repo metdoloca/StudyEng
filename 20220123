@@ -2,7 +2,8 @@ And now the command line tsc will be the latest and greatest. Various IDEs suppo
 자 이제  command line tsc(타입스크립트컴파일러) 는 가장 위대하고 최신이게 될 것이다. 다양한 IDE 역시 그것을 지원한다.
 
 You can ask vscode to use this version by creating .vscode/settings.json with the following contents:
-당신은 json 파일을 생성함으로서 이 버전에 대한 vscode 를 요청할 수 잇다.
+당신은 json 파일을 생성함으로서 이 버전에 대한 vscode 를 *명시적으로* 요청할 수 잇다.
+->을 통해 타입스크립트 버전을 명시적으로 지정할 수 있습니다.
 
 
 The source for this book is available in the books github repository https://github.com/basarat/typescript-book/tree/master/code 
@@ -14,3 +15,8 @@ as is -> 그대로
 
 For code samples that need additional setup (e.g. npm modules), we will link you to the code sample before presenting the code. e.g.
 코드 샘플은 추가적 설정이 필요하기 때문에, 우리는 코드를 보여주기 전에,  너에게 코드샘플을 링크할 것이다.
+
+해석:
+이 책의 출처는 링크 에서 구할 수 있습니다. 
+대부분의 코드 샘플을 vscode로 복사할 수 있으며 그대로 사용할 수 있습니다. 
+추가 설정이 (npm 모듈) 필요한 코드 샘플의 경우 코드를 제시하기 전에 코드를 연결합니다.
