@@ -1,0 +1,12 @@
+And now the command line tsc will be the latest and greatest. Various IDEs support it too, e.g.
+자 이제  command line tsc(타입스크립트컴파일러) 는 가장 위대하고 최신이게 될 것이다. 다양한 IDE 역시 그것을 지원한다.
+
+You can ask vscode to use this version by creating .vscode/settings.json with the following contents:
+당신은 json 파일을 생성함으로서 이 버전에 대한 vscode 를 요청할 수 잇다.
+
+
+The source for this book is available in the books 
+github repository https://github.com/basarat/typescript-book/tree/master/code 
+most of the code samples can be copied into vscode and you can play with them as is. 
+For code samples that need additional setup (e.g. npm modules), we will link you to the code sample before presenting the code. e.g.
+
